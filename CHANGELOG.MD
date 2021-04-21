@@ -1,4 +1,12 @@
 # Changelog
+<a name="v0.4.2"></a>
+## [v0.4.2](https://github.com/vinirossa/password_generator_test/compare/v0.4.1...v0.4.2) (2021-04-20)
+
+### Bug Fixes
+- bug fixed on screen ([d1f7060](https://github.com/vinirossa/password_generator_test/commit/d1f7060e4c59e1ce8283cdaa1d1429dac8732bd6))
+
+
+#
 <a name="v0.4.1"></a>
 ## [v0.4.1](https://github.com/vinirossa/password_generator_test/compare/v0.3.0...v0.4.1) (2021-04-21)
 
