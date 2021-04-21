@@ -1,6 +1,6 @@
 # Changelog
-<a name="v0.0.2"></a>
-## [v0.0.2](https://github.com/vinirossa/password_generator_test/compare/v0.0.1...v0.0.2) (2021-04-20)
+<a name="v0.1.0"></a>
+## [v0.1.0](https://github.com/vinirossa/password_generator_test/compare/v0.0.1...v0.1.0) (2021-04-20)
 
 ### Bug Fixes
 - update changelog ([44ccb89](https://github.com/vinirossa/password_generator_test/commit/44ccb892efcf49f30f55dbc194035e02f96b5ae6))
@@ -13,6 +13,9 @@
 - changelog lipsum edit ([a596639](https://github.com/vinirossa/password_generator_test/commit/a596639fb3365c4a45a2d0756ffb35f12bfd89e5))
 - changelog super edit ([c9b3725](https://github.com/vinirossa/password_generator_test/commit/c9b372579ce5df308637186081eba084419931a5))
 - new txt file hello world ([436c65d](https://github.com/vinirossa/password_generator_test/commit/436c65d8729eae2dbf3a07fd65eb8c0796168581))
+
+### Features
+- new model for changelog ([7b21782](https://github.com/vinirossa/password_generator_test/commit/7b21782206ee7eb65a3e658119c078c01091391c))
 
 
 #
