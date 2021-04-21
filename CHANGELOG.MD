@@ -1,4 +1,12 @@
 # Changelog
+<a name="v0.0.2"></a>
+## [v0.0.2](https://github.com/vinirossa/password_generator_test/compare/v0.0.1...v0.0.2) (2021-04-20)
+
+### Build
+- changelog edit 2 ([be33f2f](https://github.com/vinirossa/password_generator_test/commit/be33f2f158fc6b9fb5a022ca1b01dc33f46588be))
+
+
+#
 <a name="v0.0.1"></a>
 ## [v0.0.1](https://github.com/vinirossa/password_generator_test/compare/9f3261a07d57bb580b068aa44c37d26d1111c105...v0.0.1) (2021-04-21)
 
