@@ -15,6 +15,7 @@
 - new txt file hello world ([436c65d](https://github.com/vinirossa/password_generator_test/commit/436c65d8729eae2dbf3a07fd65eb8c0796168581))
 
 ### Features
+- new file for the project ([f7ceae1](https://github.com/vinirossa/password_generator_test/commit/f7ceae1465ef8e6d987a9eb50eccdda549caf529))
 - new model for changelog ([7b21782](https://github.com/vinirossa/password_generator_test/commit/7b21782206ee7eb65a3e658119c078c01091391c))
 
 
