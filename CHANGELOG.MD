@@ -14,11 +14,14 @@
 - changelog super edit ([c9b3725](https://github.com/vinirossa/password_generator_test/commit/c9b372579ce5df308637186081eba084419931a5))
 - new txt file hello world ([436c65d](https://github.com/vinirossa/password_generator_test/commit/436c65d8729eae2dbf3a07fd65eb8c0796168581))
 
+### Code Refactoring
+- code otimization for changelog ([197a79f](https://github.com/vinirossa/password_generator_test/commit/197a79f10221f26520510d49dbdca0dfcad31d11))
+
 ### Features
 - new file for the project ([f7ceae1](https://github.com/vinirossa/password_generator_test/commit/f7ceae1465ef8e6d987a9eb50eccdda549caf529))
 - new model for changelog ([7b21782](https://github.com/vinirossa/password_generator_test/commit/7b21782206ee7eb65a3e658119c078c01091391c))
 
-#
+
 #
 <a name="v0.0.1"></a>
 ## [v0.0.1](https://github.com/vinirossa/password_generator_test/compare/9f3261a07d57bb580b068aa44c37d26d1111c105...v0.0.1) (2021-04-21)
