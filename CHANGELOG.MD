@@ -4,6 +4,7 @@
 
 ### Build
 - changelog edit 2 ([be33f2f](https://github.com/vinirossa/password_generator_test/commit/be33f2f158fc6b9fb5a022ca1b01dc33f46588be))
+- changelog edit 3 ([43f1564](https://github.com/vinirossa/password_generator_test/commit/43f15644bd5048a5621997cb64db01d12e8921f6))
 - changelog edit 3 ([da69709](https://github.com/vinirossa/password_generator_test/commit/da697090403b3bc5f7607d2a2908160d04cdbded))
 
 
